@@ -25,15 +25,16 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler-cache: true
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+      - name: Setup Pages
+        id: pages
+        continue-on-error: true
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
 
