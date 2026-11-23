@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**First-year PhD candidate, [HKUST NLP Group](https://hkust.edu.hk/).**
+**First-year PhD candidate, HKUST NLP Group.**
 
 Junteng Liu's research focuses on **natural language processing** and **machine learning**, with interests in **LLM reasoning and reinforcement learning**, **hallucination in vision-language models (VLMs)**, and **LLM truthfulness and interpretability**.
 
