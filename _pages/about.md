@@ -11,7 +11,7 @@ redirect_from:
 
 Junteng Liu's research focuses on **natural language processing** and **machine learning**, with interests in **LLM reasoning and reinforcement learning**, **hallucination in vision-language models (VLMs)**, and **LLM truthfulness and interpretability**.
 
-The dedicated [Publications page]({{ '/publications/' | relative_url }}) also lists the recorded papers.
+The dedicated [Publications page]({{ '/publications/' | relative_url }}) presents the same publication record in a collection-focused layout.
 
 ## Personal Details
 
@@ -61,8 +61,6 @@ The dedicated [Publications page]({{ '/publications/' | relative_url }}) also li
 
 ## Skills and Research Expertise
 
-The memory records the following research skills and focus areas:
-
 - Natural language processing, combined with machine learning research.
 - Machine learning.
 - LLM reasoning and reinforcement learning.
@@ -71,22 +69,22 @@ The memory records the following research skills and focus areas:
 
 ## Publications
 
-All six publications recorded in memory are listed below. The same collection is presented on the [Publications page]({{ '/publications/' | relative_url }}).
+The following publications are also listed on the dedicated [Publications page]({{ '/publications/' | relative_url }}).
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)
    - **Role:** First author.
    - **Authors:** **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He.
-   - **Code record:** Memory records an associated GitHub code repository.
+   - **Code:** A GitHub code repository is associated with this work.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv)
    - **Role:** First author.
    - **Authors:** **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He.
-   - **Recorded GitHub repository name:** `Vision4Chart`.
+   - **Associated GitHub repository name:** `Vision4Chart`.
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
    - **Role:** First author.
    - **Authors:** **Junteng Liu**, Shiqi Chen, Yu Cheng, and Junxian He.
-   - **Recorded GitHub repository name:** `Universal_Truthfulness_Hyperplane`.
+   - **Associated GitHub repository name:** `Universal_Truthfulness_Hyperplane`.
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
    - **Authors:** Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, and Junxian He.
@@ -97,7 +95,7 @@ All six publications recorded in memory are listed below. The same collection is
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
    - **Authors:** Jinghan Zhang, Shiqi Chen, **Junteng Liu**, and Junxian He.
 
-For the complete date-sorted publication list, see [Junteng Liu's Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+For the date-sorted publication list, see [Junteng Liu's Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Honors and Awards
 
